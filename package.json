@@ -26,9 +26,9 @@
     "alfy": "^0.7.0"
   },
   "devDependencies": {
-    "eslint": "^5.6.0",
-    "eslint-config-prettier": "^3.0.1",
-    "eslint-plugin-prettier": "^2.6.2",
-    "prettier": "^1.14.3"
+    "eslint": "5.6.0",
+    "eslint-config-prettier": "3.0.1",
+    "eslint-plugin-prettier": "2.6.2",
+    "prettier": "1.14.3"
   }
 }
