@@ -5,12 +5,12 @@ jobs:
   build-and-test:
     executor:
       name: node/default
-      tag: '12'
+      tag: "12"
     steps:
       - checkout
       - node/install-packages
       - run:
-        command: npm run eslint
+          command: npm run eslint
 workflows:
   build-and-test:
     jobs:
