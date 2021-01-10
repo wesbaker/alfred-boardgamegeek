@@ -6,7 +6,8 @@
   "scripts": {
     "postinstall": "alfy-init",
     "preuninstall": "alfy-cleanup",
-    "eslint": "eslint index.js"
+    "eslint": "eslint index.js",
+    "test": "npm run eslint"
   },
   "repository": {
     "type": "git",
