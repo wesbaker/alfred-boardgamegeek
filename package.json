@@ -1,6 +1,6 @@
 {
   "name": "alfred-boardgamegeek",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search BoardGameGeek using Alfred",
   "main": "index.js",
   "scripts": {
