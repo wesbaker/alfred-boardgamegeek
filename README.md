@@ -10,7 +10,7 @@ Search BoardGameGeek from the comfort of Alfred.
 npm install --global alfred-boardgamegeek
 ```
 
-*Requires [Node.js](https://nodejs.org) 4+ and the Alfred
+*Requires [Node.js](https://nodejs.org) 14+ and the Alfred
 [Powerpack](https://www.alfredapp.com/powerpack/).*
 
 ## Usage
