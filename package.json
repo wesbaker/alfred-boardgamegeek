@@ -19,6 +19,9 @@
     "url": "https://wesbaker.com"
   },
   "license": "MIT",
+  "engines": {
+    "node": ">= 14.0.0"
+  },
   "bugs": {
     "url": "https://github.com/wesbaker/alfred-boardgamegeek/issues"
   },
