@@ -23,7 +23,7 @@
 	<key>createdby</key>
 	<string>Wes Baker</string>
 	<key>description</key>
-	<string>Search BoardGameGeek for board games</string>
+	<string>Search BoardGameGeek using Alfred</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -37,6 +37,8 @@
 				<false/>
 				<key>alfredfiltersresultsmatchmode</key>
 				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
@@ -50,9 +52,9 @@
 				<key>queuedelayimmediatelyinitially</key>
 				<true/>
 				<key>queuedelaymode</key>
-				<integer>0</integer>
-				<key>queuemode</key>
 				<integer>1</integer>
+				<key>queuemode</key>
+				<integer>2</integer>
 				<key>runningsubtext</key>
 				<string>Searching BoardGameGeek for '{query}'</string>
 				<key>script</key>
@@ -75,7 +77,7 @@
 			<key>uid</key>
 			<string>6CC6C706-443A-4F7C-9189-29DB7A7A4779</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -116,7 +118,9 @@
 			<integer>10</integer>
 		</dict>
 	</dict>
+	<key>version</key>
+	<string>1.0.1</string>
 	<key>webaddress</key>
-	<string>https://wesbaker.com</string>
+	<string>https://github.com/wesbaker/alfred-boardgamegeek#readme</string>
 </dict>
 </plist>
