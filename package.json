@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/wesbaker/alfred-boardgamegeek#readme",
   "dependencies": {
-    "alfy": "^0.12.1"
+    "alfy": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "8.19.0",
