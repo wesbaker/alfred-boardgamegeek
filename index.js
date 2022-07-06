@@ -2,7 +2,7 @@ import alfy from "alfy";
 
 alfy
   .fetch("https://boardgamegeek.com/search/boardgame", {
-    query: {
+    searchParams: {
       showcount: 20,
       q: alfy.input,
     },
